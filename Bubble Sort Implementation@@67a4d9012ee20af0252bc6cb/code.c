@@ -1,5 +1,5 @@
 // Your code here...
 
-int main (void){
+int main (){
     printf("HEllo world");
 }
