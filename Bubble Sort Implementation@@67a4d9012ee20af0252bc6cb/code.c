@@ -1,3 +1,5 @@
 // Your code here...
 
-slee
+int main (void){
+    printf("HEllo world")
+}
